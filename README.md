@@ -5,7 +5,7 @@ Building clean code by day and experimenting with AI & generative aesthetics by 
 Focused on building efficient software while maintaining a sharp design-first approach.
 </h3>
 
-<h3>🔭 I’m currently working on <strong>GreenPulse</strong> project.</h3>
+<h3>🔭 I’m currently working on <strong>freelancing</strong> project.</h3>
 
 <h3>🌱 I’m currently learning <strong>communication skills</strong>.</h3>
 
